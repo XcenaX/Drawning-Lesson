@@ -1,0 +1,15 @@
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\bin\Debug\Drawning Lesson.exe.config
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\bin\Debug\Drawning Lesson.exe
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\bin\Debug\Drawning Lesson.pdb
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\MainWindow.g.cs
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\App.g.cs
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson_MarkupCompile.cache
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson_MarkupCompile.lref
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\MainWindow.baml
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson.g.resources
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning_Lesson.Properties.Resources.resources
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson.csproj.GenerateResource.cache
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson.exe
+C:\Users\ЛебедевВ.CORP.000\source\repos\Drawning Lesson\Drawning Lesson\obj\Debug\Drawning Lesson.pdb

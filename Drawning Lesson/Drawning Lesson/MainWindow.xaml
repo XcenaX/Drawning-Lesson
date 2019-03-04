@@ -1,0 +1,316 @@
+﻿<Window x:Class="Drawning_Lesson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Drawning_Lesson"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="608.828" Width="895.212">
+    <Grid>
+        <Rectangle Height="100" Fill="White" Stroke="Black" RenderTransformOrigin="0.5,0.5" Margin="342,172,477,306" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="74.172" Y="111.124"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="342,178,484,312" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="75.033" Y="113.423"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Rectangle Height="100" Fill="White" Stroke="Black" RenderTransformOrigin="0.5,0.5" Margin="342,370,477,108" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="204.2" Y="62.445"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="343,375,483,112" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="205.388" Y="64.621"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Rectangle Height="100" Fill="White" Stroke="Black" RenderTransformOrigin="0.5,0.5" Margin="342,271,477,207" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="139.186" Y="86.785"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="342,277,483,213" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="140.046" Y="89.083"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+        <Rectangle Stroke="Black" Fill="White" Margin="342,129,477,405" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="27.546" Y="128.58"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Line X1="400"  Y1="222" X2="465" Y2="264"  StrokeThickness="2" Stroke="Black" Margin="-56,-92,56,92" RenderTransformOrigin="0.5,0.5">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="54.927" Y="109.718"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Rectangle Stroke="Black" Fill="White" Margin="342,29,477,449" RenderTransformOrigin="0.5,0.5" StrokeThickness="5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-19.737" Y="146.281"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="Black" Fill="White" Margin="342,-15,477,549" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-67.019" Y="163.982"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Line X1="400"  Y1="115" X2="465" Y2="158"  StrokeThickness="2" Stroke="Black" RenderTransformOrigin="0.5,0.5" Margin="-56,-129,56,129">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="30.629" Y="118.815"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Rectangle Stroke="White" Fill="Black" Margin="410,-15,409,549" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-83.737" Y="119.326"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Line X1="465"  Y1="115" X2="530" Y2="155"  StrokeThickness="2" Stroke="Gray" RenderTransformOrigin="0.5,0.5" Margin="-56,-129,56,129">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="30.629" Y="118.815"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Rectangle Stroke="White" Fill="Black" Margin="274,-15,545,549" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-50.301" Y="208.638"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Line X1="332"  Y1="116" X2="395" Y2="155"  StrokeThickness="2" Stroke="Gray" RenderTransformOrigin="0.5,0.5" Margin="-56,-129,56,129">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="30.629" Y="118.815"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Rectangle Height="100" Fill="White" Stroke="Black" RenderTransformOrigin="0.5,0.5" Margin="410,28,409,450" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-37.111" Y="101.871"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="414,34,415,456" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-36.742" Y="102.856"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Height="100" Fill="White" Stroke="Black" RenderTransformOrigin="0.5,0.5" Margin="276,28,543,450" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-4.167" Y="189.869"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="283,34,548,456" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-4.413" Y="189.213"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="410,129,409,405" RenderTransformOrigin="0.5,0.5" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="10.828" Y="83.924"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="274,129,545,405" RenderTransformOrigin="0.5,0.5" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="44.264" Y="173.235"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="206,-14,613,541" RenderTransformOrigin="0.5,0.5" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-33"/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform Y="270.427" X="-15.072"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="206,126,613,401" RenderTransformOrigin="0.5,0.5" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="33"/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform Y="200.041" X="45.71"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="1032,112,-245,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-162.854" Y="-328.005"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Line X1="333" Y1="211" X2="261" Y2="211" Stroke="Black" StrokeThickness="2" RenderTransformOrigin="0.5,0.5" Margin="-56,-129,56,129">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="30.629" Y="118.815"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Line X1="261" Y1="160" X2="261" Y2="261" Stroke="Black" StrokeThickness="2" RenderTransformOrigin="0.5,0.5" Margin="-56,-129,56,129">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="30.629" Y="118.815"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Rectangle Stroke="White" Fill="Black" Margin="480,-16,339,543" RenderTransformOrigin="0.5,0.5" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="33"/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform Y="90.325" X="-83.995"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Stroke="White" Fill="Black" Margin="480,81,339,446" RenderTransformOrigin="0.5,0.5" StrokeThickness="2">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-33"/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform Y="67.134" X="-20.048"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Line X1="333" Y1="211" X2="261" Y2="211" Stroke="Black" StrokeThickness="2" Margin="215,-129,-215,129" RenderTransformOrigin="0.5,0.5">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-35.997" Y="-59.152"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+        <Line X1="261" Y1="160" X2="261" Y2="261" Stroke="Black" StrokeThickness="2" Margin="287,-129,-293,129" RenderTransformOrigin="0.5,0.5">
+            <Line.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-41.049"/>
+                    <TranslateTransform X="-54.313" Y="-108.077"/>
+                </TransformGroup>
+            </Line.RenderTransform>
+        </Line>
+
+
+    </Grid>
+</Window>
